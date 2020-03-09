@@ -1,4 +1,4 @@
-# Schedular
+# processes scheduler 
 Schedular implementation 
 # Supported Schedulars:-
  (1) FCFS<br>
